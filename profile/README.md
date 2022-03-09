@@ -16,5 +16,7 @@
   
 </div>
 
+---
+
 This app allows people to find friends to hike based on location. Users can create "hike events" that anyone can see and request to join.
 Eventually it will include ways to contact the organiser and chat with other participants.
