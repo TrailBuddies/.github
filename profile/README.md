@@ -23,3 +23,8 @@ Eventually it will include ways to contact the organiser and chat with other par
 
 
 I am looking for fellow developers (mobile, web, and systems) to collaborate with!
+
+
+### Current team members
+- [kyleyuen](https://github.com/kyleyuen)
+- [Ash](https://github.com/LaZeAsh)
