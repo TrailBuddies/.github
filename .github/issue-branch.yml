@@ -2,10 +2,26 @@ branchName: 'issue-${issue.number}_${issue.title,}'
 gitSafeReplacementChar: '-'
 #autoCloseIssue: true
 defaultBranch: 'master'
-openDraftPR: true
+openPR: true
 copyIssueDescriptionToPR: true
 copyIssueLabelsToPR: true
 copyIssueAssigneeToPR: true
 copyIssueProjectsToPR: true
 copyIssueMilestoneToPR: true
 commentMessage: 'Branch `${branchName}` has been created for this issue (#${issue.number}). Please use it for development'
+
+mode: chatops
+
+branches:
+  - label: question
+    skip: true
+  - label: duplicate
+    skip: true
+  - label: 
+    skip: true
+  - label: 
+    skip: true
+  - label: 
+    skip: true
+  - label: 
+    skip: true
