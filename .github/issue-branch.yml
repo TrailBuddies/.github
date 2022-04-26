@@ -17,11 +17,3 @@ branches:
     skip: true
   - label: duplicate
     skip: true
-  - label: 
-    skip: true
-  - label: 
-    skip: true
-  - label: 
-    skip: true
-  - label: 
-    skip: true
